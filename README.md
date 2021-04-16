@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Siyuan Chen
 - 👀 I’m interested in Computational Biology and Machine Learning
+-     Previously, I've also done lots of projects within computer vision.
 
 - 📫 How to reach me : siyuan.chen@kaust.edu.sa
 
